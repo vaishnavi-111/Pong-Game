@@ -1,0 +1,2 @@
+For the AI player, a function can be made that calculates the resulting position of ball, and the paddle automatically goes to that position, this saves the constant moving of the automatic paddle.
+As of now, the game is endless, a function can be added that ends the game after one of the players gets 10 points, and a window pops up sayin, Player "winner" won.
