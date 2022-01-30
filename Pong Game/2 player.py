@@ -1,5 +1,5 @@
 # Vaishnavi_111
-# Ping Pong Ball Game in Python
+# Pong Ball Game in Python
 # The game is endless, ends only when one of the paticipants give up
 
 import turtle
